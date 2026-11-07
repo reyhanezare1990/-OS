@@ -1,0 +1,4 @@
+تمرین جلسه اول ۳
+بعد از نصب tree 
+دستور    mkdir -p os-practice/{bin,sbin,etc,home,var} 
+برای نمایش ساختار درختی tree -d os-practice
